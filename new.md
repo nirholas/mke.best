@@ -1,3 +1,9 @@
+---
+layout: page
+title: new
+permalink: /new/
+---
+
 $eth
 crypto
 ethereum
