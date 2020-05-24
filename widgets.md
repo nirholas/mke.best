@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cryptocurrency Widgets
-permalink: /new/
+permalink: /widgets/
 ---
 
 This is a Github Pages + Custom Domain from Namecheap. Here I will show how easy it is to embed crypto widgets ;)
